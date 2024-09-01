@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Bernardo, sejá bem-vindo ao meu perfil!</h1>
-<h3 align="center">Sou apaixonado por tecnologia e inovação. Fascinado pela Análise de Dados e Ciência de Dados</h3>
+<h3 align="center">Sou apaixonado por tecnologia e inovação</h3>
 
 - Atualmente estou estudando **C#,.NET**
 
